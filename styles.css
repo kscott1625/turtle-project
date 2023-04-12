@@ -245,16 +245,16 @@ footer {
   }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
     .row{
         flex-direction: column;
     }
    
 }
 
-@media (max-width: 1120px) {
+@media (max-width: 1140px) {
    .sea-pic img{
-    width: 400px;
+    width: 350px;
     margin: auto;
    }
     .sea-pic {
